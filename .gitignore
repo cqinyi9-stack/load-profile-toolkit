@@ -1,0 +1,9 @@
+inputs/
+outputs/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.xlsx
+*.xls
+*.csv
+*.pdf
